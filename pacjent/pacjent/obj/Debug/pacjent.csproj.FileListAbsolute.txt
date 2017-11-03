@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\C#\pacjent\pacjent\obj\Debug\pacjent.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\C#\pacjent\pacjent\obj\Debug\pacjent.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\C#\pacjent\pacjent\bin\Debug\pacjent.exe.config
+C:\Users\Adam\Desktop\C#\pacjent\pacjent\bin\Debug\pacjent.exe
+C:\Users\Adam\Desktop\C#\pacjent\pacjent\bin\Debug\pacjent.pdb
+C:\Users\Adam\Desktop\C#\pacjent\pacjent\obj\Debug\pacjent.exe
+C:\Users\Adam\Desktop\C#\pacjent\pacjent\obj\Debug\pacjent.pdb
